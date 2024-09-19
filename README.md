@@ -1,7 +1,3 @@
-Sure! Here’s the updated README with the addition of your "PrioLearn" project.
-
-# README for GitHub Profile
-
 ## Hi there! I'm Asiri Pramodaya 👋
 
 Welcome to my GitHub profile! I am passionate about programming and software development, and I love exploring new technologies. Here’s a bit about me and my interests.
