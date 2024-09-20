@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I am passionate about programming and software development, and I love exploring new technologies. Here’s a bit about me and my interests.
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiripr&show_icons=true&theme=radical)
 
 ## 🚀 Interests
 
