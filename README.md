@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I am passionate about programming and software dev
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiripr&show_icons=true&theme=radical)
+![GitHub Snake Animation](https://github.com/your_github_username/your_repository_name/blob/output/snake.svg)
+
 
 ## 🚀 Interests
 
