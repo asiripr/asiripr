@@ -1,5 +1,5 @@
 ## Hi there! I'm Asiri Pramodaya 👋
-
+---
 Welcome to my little corner of GitHub! 🌱 My GitHub is a garden of projects, ideas, and experiments. Some are blossoming beautifully, others are still tender seedlings, but all are grown with love and curiosity.
 Remember, in this vast universe of ones and zeros, you're a star! ⭐ Thanks for brightening up my GitHub with your presence!
 ---
@@ -77,10 +77,9 @@ Here are some of my notable projects:
 
 </td></tr></table>
 
-## 📫 Get in Touch
+## 📫 Let's Connect!
+I'm always excited to collaborate on projects or engage in stimulating tech discussions. Don't hesitate to reach out!
 
-Feel free to reach out if you want to collaborate on projects or just chat about technology!
+🔗 LinkedIn: asiripramodaya
 
-- LinkedIn: https://linkedin.com/in/asiripramodaya
-
-Thank you for visiting my profile! Happy coding!
+Thank you for exploring my digital realm. May your code be bug-free and your commits always push successfully! Happy coding! 🚀✨
