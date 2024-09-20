@@ -94,6 +94,6 @@ Here are some of my notable projects:
 ## 📫 Let's Connect!
 I'm always excited to collaborate on projects or engage in stimulating tech discussions. Don't hesitate to reach out!
 
-🔗 LinkedIn: asiripramodaya
+🔗 **[LinkedIn](https://linkedin.com/in/asiripramodaya)**
 
 Thank you for exploring my digital realm. May your code be bug-free and your commits always push successfully! Happy coding! 🚀✨
