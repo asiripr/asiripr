@@ -1,10 +1,23 @@
 ## Hi there! I'm Asiri Pramodaya 👋
 
--Welcome to my little corner of GitHub! 
--🌱 My GitHub is a garden of projects, ideas, and experiments. Some are blossoming beautifully, others are still tender seedlings, but all are grown with love and curiosity.
--Remember, in this vast universe of ones and zeros, you're a star! ⭐ Thanks for brightening up my GitHub with your presence!
+🌱 **Welcome to my little corner of GitHub!**
+
+My GitHub is a garden of projects, ideas, and experiments. Some are blossoming beautifully, others are still tender seedlings, but all are grown with love and curiosity. 
+
+💡 Remember, in this vast universe of ones and zeros, you're a star! ⭐  
+Thanks for brightening up my GitHub with your presence!
+
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiripr&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asiripr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Asiri's%20GitHub%20Stats" alt="Asiri's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiripr&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
 
 
 ## 🚀 Interests
