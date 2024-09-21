@@ -28,30 +28,9 @@ Thanks for brightening up my GitHub with your presence!
 
 - **Object-Oriented Programming**: I am fascinated by OOP principles and enjoy applying them in my projects to create scalable and maintainable code.
 
-- **Inspirational Quotes**: I believe in the power of motivation and often work on projects that share inspirational quotes to uplift others.
-
 ---
-
-## 🌟 Projects
-
-Here are some of my notable projects:
-
-- **[PrioLearn](https://github.com/asiripr/priolearn)**: An innovative learning platform designed to help users prioritize their learning objectives effectively.
-
-- **[Hotel System](https://github.com/asiripr/hotel-system)**: A web application developed using JavaScript that manages hotel bookings and customer information.
-
-- **[Inspirational Quotes](https://github.com/asiripr/inspirational-quotes)**: A C++ project that generates random inspirational quotes to motivate users.
-
-- **[Web Application Development](https://github.com/asiripr/web-application-development)**: A group assignment project that showcases collaborative web application development skills.
-
-
-
----
-
 ## 🙋 My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
