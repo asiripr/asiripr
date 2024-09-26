@@ -1,4 +1,4 @@
-## Hi there! I'm Asiri Pramodaya 👋 | ආයුබෝවන් 🙏🏻
+## Hi there! I'm Asiri Pramodaya 👋
 
 🌱 **Welcome to my little corner of GitHub!**
 
