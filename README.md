@@ -22,12 +22,13 @@ Thanks for brightening up my GitHub with your presence!
 
 ## 🚀 Interests
 
-- **Web Development**: I enjoy building dynamic and responsive web applications. My projects often involve JavaScript, PHP, and Laravel.
+- **Web Development**: I enjoy building dynamic and responsive web applications. My projects often involve PHP and Laravel.
 
-- **Programming Languages**: I have experience with multiple programming languages including C++, Java, and JavaScript. I love solving problems and implementing algorithms.
+- **Programming Languages**: I have experience with multiple programming languages including Java, Dart, PHP, and Python. I love solving problems and implementing algorithms.
 
 - **Object-Oriented Programming**: I am fascinated by OOP principles and enjoy applying them in my projects to create scalable and maintainable code.
 
+- **Backend Development**: I am interested in learning more about backend development to expand my skillset and create robust server-side applications.
 ---
 ## 🙋 My Skill Set  
 <table><tr><td valign="top" width="33%">
