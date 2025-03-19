@@ -1,5 +1,3 @@
-# Asiri Pramodaya 🌟
-
 ## About Me
 
 Hi there! I'm Asiri Pramodaya 👋
