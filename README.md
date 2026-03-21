@@ -1,49 +1,83 @@
-## About Me
+# 👋 Hi, I'm Asiri Pramodaya
 
-Hi there! I'm Asiri Pramodaya 👋
+🎓 Computing Undergraduate | 💻 Full-Stack Developer | 🚀 Tech Explorer  
 
-🌱 **Welcome to my GitHub garden!** Here you'll find projects in various stages of growth - from tiny seedlings to flourishing applications, all cultivated with passion and curiosity.
+Welcome to my digital space — where ideas turn into real-world applications.
 
-## 🚀 Interests
+---
 
-- **Web Development**: Building dynamic and responsive applications with PHP and Laravel
-- **Programming Languages**: Proficient in Java, Dart, PHP, and Python
-- **Object-Oriented Programming**: Creating scalable and maintainable code through OOP principles
-- **Backend Development**: Expanding my skillset to build robust server-side applications
+## 🌿 About Me
 
-## 💼 Professional Skills
+I'm passionate about building **scalable, user-focused applications** and continuously improving my craft in modern software development.
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+- 🔭 Currently working with **Laravel, Next.js, Flutter & Firebase**
+- 🌱 Exploring **Spring Boot, Cloud-based architectures, Python, Machine Learning & GIS**
+- 🧠 Interested in **clean architecture, performance & system design**
+- 🎯 Focused on building **real-world impactful solutions**
 
-### Backend Development
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+---
 
-### DevOps & Tools
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
+## ⚡ Tech Stack
 
-## 📊 GitHub Stats
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asiripr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Asiri%27s%20GitHub%20Stats)
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot)
 
-## 📫 Let's Connect!
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase)
 
-I'm always excited to collaborate on projects or engage in stimulating tech discussions. Feel free to reach out!
+### 🛠️ Tools & DevOps
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/asiripramodaya/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/asiripr)
+---
 
-Thank you for visiting my GitHub profile. May your code be bug-free and your commits always push successfully! Happy coding! 🚀✨
+## 🧩 What I Build
+
+- 📦 **Full-stack web apps** (Laravel + Next.js)
+- 📱 **Mobile apps** (Flutter + Firebase)
+- 🔐 **Authentication & role-based systems**
+- 📊 **Data-driven dashboards & analytics**
+- ⚡ **Performance-focused backend systems**
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asiripr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiripr&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaboration, ideas, and meaningful tech conversations.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asiripramodaya/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/asiripr)
+
+---
+
+## ✨ Fun Note
+
+> "Code is like a garden — the more you nurture it, the more it grows." 🌱
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my repositories and drop a star if something helps you.*
